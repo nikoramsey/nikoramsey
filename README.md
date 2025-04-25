@@ -19,4 +19,3 @@ I’m a self-taught developer focused on building simple, effective apps — one
 
 ---
 
-Let’s build something awesome.
